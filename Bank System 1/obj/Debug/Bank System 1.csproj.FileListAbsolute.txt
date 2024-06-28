@@ -1,0 +1,17 @@
+A:\01 Testing\Bank System 1\bin\Debug\Bank System 1.exe.config
+A:\01 Testing\Bank System 1\bin\Debug\Bank System 1.exe
+A:\01 Testing\Bank System 1\bin\Debug\Bank System 1.pdb
+A:\01 Testing\Bank System 1\obj\Debug\Bank System 1.csproj.AssemblyReference.cache
+A:\01 Testing\Bank System 1\obj\Debug\Bank_System_1.Form1.resources
+A:\01 Testing\Bank System 1\obj\Debug\Bank_System_1.Properties.Resources.resources
+A:\01 Testing\Bank System 1\obj\Debug\Bank System 1.csproj.GenerateResource.cache
+A:\01 Testing\Bank System 1\obj\Debug\Bank System 1.csproj.CoreCompileInputs.cache
+A:\01 Testing\Bank System 1\obj\Debug\Bank System 1.exe
+A:\01 Testing\Bank System 1\obj\Debug\Bank System 1.pdb
+A:\01 Testing\Bank System 1\bin\Debug\BankMiddleLayer.dll
+A:\01 Testing\Bank System 1\bin\Debug\BankDataAccessLayer.dll
+A:\01 Testing\Bank System 1\bin\Debug\BankMiddleLayer.pdb
+A:\01 Testing\Bank System 1\bin\Debug\BankDataAccessLayer.pdb
+A:\01 Testing\Bank System 1\obj\Debug\Bank Sys.0B11393A.Up2Date
+A:\01 Testing\Bank System 1\obj\Debug\Bank_System_1.frmAddUpdateClient.resources
+A:\01 Testing\Bank System 1\obj\Debug\Bank_System_1.frmAddEditUser.resources
