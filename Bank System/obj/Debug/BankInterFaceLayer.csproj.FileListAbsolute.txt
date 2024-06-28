@@ -1,0 +1,12 @@
+A:\01 Testing\Bank System\bin\Debug\Bank System.exe.config
+A:\01 Testing\Bank System\bin\Debug\Bank System.exe
+A:\01 Testing\Bank System\bin\Debug\Bank System.pdb
+A:\01 Testing\Bank System\bin\Debug\BankMiddleLayer.dll
+A:\01 Testing\Bank System\bin\Debug\BankDataAccessLayer.dll
+A:\01 Testing\Bank System\bin\Debug\BankMiddleLayer.pdb
+A:\01 Testing\Bank System\bin\Debug\BankDataAccessLayer.pdb
+A:\01 Testing\Bank System\obj\Debug\BankInterFaceLayer.csproj.AssemblyReference.cache
+A:\01 Testing\Bank System\obj\Debug\BankInterFaceLayer.csproj.CoreCompileInputs.cache
+A:\01 Testing\Bank System\obj\Debug\BankInte.BA620F30.Up2Date
+A:\01 Testing\Bank System\obj\Debug\Bank System.exe
+A:\01 Testing\Bank System\obj\Debug\Bank System.pdb
