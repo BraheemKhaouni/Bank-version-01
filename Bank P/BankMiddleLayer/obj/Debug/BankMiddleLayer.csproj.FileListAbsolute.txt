@@ -1,0 +1,9 @@
+A:\01 Testing\BankMiddleLayer\bin\Debug\BankMiddleLayer.dll
+A:\01 Testing\BankMiddleLayer\bin\Debug\BankMiddleLayer.pdb
+A:\01 Testing\BankMiddleLayer\bin\Debug\BankDataAccessLayer.dll
+A:\01 Testing\BankMiddleLayer\bin\Debug\BankDataAccessLayer.pdb
+A:\01 Testing\BankMiddleLayer\obj\Debug\BankMiddleLayer.csproj.AssemblyReference.cache
+A:\01 Testing\BankMiddleLayer\obj\Debug\BankMiddleLayer.csproj.CoreCompileInputs.cache
+A:\01 Testing\BankMiddleLayer\obj\Debug\BankMidd.73CAEB95.Up2Date
+A:\01 Testing\BankMiddleLayer\obj\Debug\BankMiddleLayer.dll
+A:\01 Testing\BankMiddleLayer\obj\Debug\BankMiddleLayer.pdb

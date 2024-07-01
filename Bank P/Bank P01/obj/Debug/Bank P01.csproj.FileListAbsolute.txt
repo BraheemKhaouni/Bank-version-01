@@ -1,0 +1,21 @@
+A:\01 Testing\Bank P\Bank P01\obj\Debug\Bank P01.csproj.AssemblyReference.cache
+A:\01 Testing\Bank P\Bank P01\obj\Debug\Bank_P01.frmLogIn.resources
+A:\01 Testing\Bank P\Bank P01\obj\Debug\Bank_P01.Properties.Resources.resources
+A:\01 Testing\Bank P\Bank P01\obj\Debug\Bank P01.csproj.GenerateResource.cache
+A:\01 Testing\Bank P\Bank P01\obj\Debug\Bank P01.csproj.CoreCompileInputs.cache
+A:\01 Testing\Bank P\Bank P01\bin\Debug\Bank P01.exe.config
+A:\01 Testing\Bank P\Bank P01\bin\Debug\Bank P01.exe
+A:\01 Testing\Bank P\Bank P01\bin\Debug\Bank P01.pdb
+A:\01 Testing\Bank P\Bank P01\obj\Debug\Bank P01.exe
+A:\01 Testing\Bank P\Bank P01\obj\Debug\Bank P01.pdb
+A:\01 Testing\Bank P\Bank P01\bin\Debug\BankMiddleLayer.dll
+A:\01 Testing\Bank P\Bank P01\bin\Debug\BankDataAccessLayer.dll
+A:\01 Testing\Bank P\Bank P01\bin\Debug\BankMiddleLayer.pdb
+A:\01 Testing\Bank P\Bank P01\bin\Debug\BankDataAccessLayer.pdb
+A:\01 Testing\Bank P\Bank P01\obj\Debug\Bank P01.csproj.Up2Date
+A:\01 Testing\Bank P\Bank P01\obj\Debug\Bank_P01.frmBankMain.resources
+A:\01 Testing\Bank P\Bank P01\obj\Debug\Bank_P01.frmAddUpdateClient.resources
+A:\01 Testing\Bank P\Bank P01\obj\Debug\Bank_P01.frmTrancationcs.resources
+A:\01 Testing\Bank P\Bank P01\obj\Debug\Bank_P01.frmMangeUser.resources
+A:\01 Testing\Bank P\Bank P01\obj\Debug\Bank_P01.frmAddUpdateUsercs.resources
+A:\01 Testing\Bank P\Bank P01\obj\Debug\Bank_P01.frmSettings.resources
